@@ -1,0 +1,14 @@
+/home/lrdtms/Documents/Assessments/Asm3/bin/Debug/net9.0/Asm3
+/home/lrdtms/Documents/Assessments/Asm3/bin/Debug/net9.0/Asm3.deps.json
+/home/lrdtms/Documents/Assessments/Asm3/bin/Debug/net9.0/Asm3.runtimeconfig.json
+/home/lrdtms/Documents/Assessments/Asm3/bin/Debug/net9.0/Asm3.dll
+/home/lrdtms/Documents/Assessments/Asm3/bin/Debug/net9.0/Asm3.pdb
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.AssemblyInfoInputs.cache
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.AssemblyInfo.cs
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.csproj.CoreCompileInputs.cache
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.dll
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/refint/Asm3.dll
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.pdb
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/Asm3.genruntimeconfig.cache
+/home/lrdtms/Documents/Assessments/Asm3/obj/Debug/net9.0/ref/Asm3.dll
